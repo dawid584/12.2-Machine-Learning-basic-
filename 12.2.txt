@@ -1,0 +1,39 @@
+Supervised Learning
+
+To rodzaj ML ,który można porównać do nauki w klasie, gdzie są uczniowie (nasz algorytm) 
+oraz nauczyciel, który dostarcza wszystkich potrzebnych odpowiedzi.
+
+Klasyfikacja:
+-klasyfikacja przelewów aby doszły do prawdziwego adresata.
+-klasyfikacja emaili.
+-klasyfikacja rodzajów muzyki
+
+
+Regresja:
+-przewidywanie pogody.
+-trendy kursów kryptowalut.
+-przewidywanie popytu na produkt
+
+Unsupervised Learning
+
+Podgrupa algorytmów ML, które można porównać do samodzielnej nauki, bez pomocy
+nauczyciela, bez kogoś, kto da nam wszystkie odpowiedzi lub oceni jakość rozwiązania.
+
+Clustering:
+-grupowanie ludzi według płci na portalu społęcznościowym
+-grupowanie potraw według rodzaju jedzenia
+-grupowanie ludzi według pracy , środowiska do określania zdolności kredytowej 
+
+
+Dimension Reduction:
+
+-cechy fizyczne - wzrost , wzrok itp. osób zaklasyfikowanych do wojska 
+-lista studentów zakwalifikowanych na studia  z listą wyników matur oraz ocen ze szkół
+-kartoteka medyczna - historia chorób.
+
+
+Automatyzacja procesu i klasyfikacja różnych elementów do róznychkategorii ,
+przewidywanie  , grupowanie  większych zbiorów , grupowanie elementów z więksża ilością elementów wewnątrz zbioru.
+
+Algorytmy to sekwencja krok po kroku wykonania jakiegoś zadania.
+
